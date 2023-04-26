@@ -1,0 +1,8 @@
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.BusinessLogic.dll
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.BusinessLogic.pdb
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.dll
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\bin\Debug\Candidate.pdb
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.csproj.CopyComplete
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.dll
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\Candidate.BusinessLogic\obj\Debug\Candidate.BusinessLogic.pdb

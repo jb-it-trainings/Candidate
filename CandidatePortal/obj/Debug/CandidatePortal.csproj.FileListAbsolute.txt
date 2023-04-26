@@ -1,0 +1,12 @@
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.exe.config
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.exe
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\CandidatePortal.pdb
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.BusinessLogic.dll
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.dll
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.BusinessLogic.pdb
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.CoreCompileInputs.cache
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.CopyComplete
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.exe
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.pdb
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\obj\Debug\CandidatePortal.csproj.AssemblyReference.cache
+D:\Trainings\Apps\Projects\NaukariPortal\Candidate\CandidatePortal\bin\Debug\Candidate.pdb
