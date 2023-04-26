@@ -25,7 +25,8 @@ namespace CandidatePortal
                 ContactDetailsService contactService = new ContactDetailsService();
                 //Read Candiddate Contact Details
                 //ContactDetails contactDetails = contactService.ReadContactDetails();
-
+                ContactDetails contactDetails = new ContactDetails();
+                
                 
                 //AddressDetailsService addressDetailsService = new AddressDetailsService();
                 //Reading Candidate Address Details
