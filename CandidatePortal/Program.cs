@@ -26,6 +26,9 @@ namespace CandidatePortal
                 //Read Candiddate Contact Details
                 //ContactDetails contactDetails = contactService.ReadContactDetails();
                 ContactDetails contactDetails = new ContactDetails();
+
+                PersonalDetails pD = new PersonalDetails();
+                pD.CandidateType = "dsdsd";
                 
                 
                 //AddressDetailsService addressDetailsService = new AddressDetailsService();
